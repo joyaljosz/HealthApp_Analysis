@@ -1,6 +1,6 @@
 # HealthApp_Analysis
 
-1. Data Loading and Preprocessing:
+1.Data Loading and Preprocessing:
 The code reads a CSV file ('HealthApp_2k.log_structured.csv') into a Pandas DataFrame.
 Converts the 'Time' column to a datetime format and extracts additional features like hour, day, month, and year.
 
